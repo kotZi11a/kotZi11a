@@ -1,4 +1,9 @@
-### Hi there 👋
+## I'am student in Samara University
+
+
+
+### Languages
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 <!--
 **kotZi11a/kotZi11a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
